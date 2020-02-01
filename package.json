@@ -1,0 +1,19 @@
+{
+  "name": "coin-challenge",
+  "version": "1.0.0",
+  "description": "Simple test to prove a statistical problem proposed at our daily lunch table.",
+  "main": "coin-challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaelite21/coin-challenge.git"
+  },
+  "author": "aaaelite21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaaelite21/coin-challenge/issues"
+  },
+  "homepage": "https://github.com/aaaelite21/coin-challenge#readme"
+}
