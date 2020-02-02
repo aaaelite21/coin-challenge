@@ -4,7 +4,7 @@ Simple test to prove a statistical problem proposed at our daily lunch table.
 
 # The Problem
 
-You have 3 coins, on with two heads, one with two tales and one with both heads and tails. You then randomly select one of the coins. If you flip that coin twice in a row and get heads 3 times what is the percent chance of getting heads a third time. Assume all coins are fair.
+You have 3 coins, on with two heads, one with two tales and one with both heads and tails. You then randomly select one of the coins. If you flip that coin twice in a row and get heads 2 times what is the percent chance of getting heads a third time. Assume all coins are fair.
 
 # The Result
 
